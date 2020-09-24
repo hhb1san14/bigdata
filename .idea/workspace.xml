@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e61b10ac-84c0-4d1c-8957-deeef5b53af2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ea0iZDCVdtzSdfAFp238ALheKH" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/hhb/kafka/interceptor/producer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hhb.project.first" />
+      <recent name="com.hhb.kafka.admin" />
+      <recent name="com.hhb.kafka.interceptor.consumer" />
+      <recent name="com.hhb.kafka.deserialize" />
+      <recent name="com.hhb.kafka.interceptor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/hhb/kafka/interceptor/producer" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hhb/impala/homework" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hhb/hadoop" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hhb/shell" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyProducer.test">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="hhb.cn.part04.ConstructorDemo" />
+      <module name="scala" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hhb.cn.part04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hhb.kafka.demo.MyConsumer" />
+      <module name="com.hhb.bigdata" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hhb.kafka.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="hhb.cn.part04.ObjectDemo" />
+      <module name="scala" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hhb.cn.part04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConsumer.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.hhb.bigdata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hhb.kafka.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hhb.kafka.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.hhb.kafka.demo.MyConsumer" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProducer.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.hhb.bigdata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hhb.kafka.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hhb.kafka.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.hhb.kafka.demo.MyProducer" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhb.kafka.KafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyProducer.test" />
+        <item itemvalue="JUnit.MyConsumer.test" />
+        <item itemvalue="Application.MyConsumer" />
+        <item itemvalue="Application.ObjectDemo" />
+        <item itemvalue="Application.ConstructorDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e61b10ac-84c0-4d1c-8957-deeef5b53af2" name="Default Changelist" comment="" />
+      <created>1594544523355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594544523355</updated>
+      <workItem from="1594544525966" duration="2470000" />
+      <workItem from="1594547259368" duration="779000" />
+      <workItem from="1594602470848" duration="1502000" />
+      <workItem from="1594724743367" duration="443000" />
+      <workItem from="1594778432665" duration="9134000" />
+      <workItem from="1594888490086" duration="2287000" />
+      <workItem from="1594893849915" duration="49000" />
+      <workItem from="1594902011388" duration="18000" />
+      <workItem from="1595403992093" duration="396000" />
+      <workItem from="1595466730225" duration="3295000" />
+      <workItem from="1595492173022" duration="648000" />
+      <workItem from="1595492830261" duration="5533000" />
+      <workItem from="1595553680554" duration="1930000" />
+      <workItem from="1595569253071" duration="17000" />
+      <workItem from="1595569277513" duration="522000" />
+      <workItem from="1595569813446" duration="905000" />
+      <workItem from="1595570754837" duration="1047000" />
+      <workItem from="1595764022402" duration="4290000" />
+      <workItem from="1595813983448" duration="3024000" />
+      <workItem from="1595898761075" duration="506000" />
+      <workItem from="1595986385640" duration="5740000" />
+      <workItem from="1596021839183" duration="1988000" />
+      <workItem from="1596023951521" duration="1321000" />
+      <workItem from="1596025346182" duration="501000" />
+      <workItem from="1596025975029" duration="753000" />
+      <workItem from="1596026764513" duration="954000" />
+      <workItem from="1596161961831" duration="3763000" />
+      <workItem from="1596192635742" duration="71000" />
+      <workItem from="1596266222623" duration="8286000" />
+      <workItem from="1596456684656" duration="935000" />
+      <workItem from="1596511285402" duration="848000" />
+      <workItem from="1596549647804" duration="2043000" />
+      <workItem from="1596867793805" duration="44000" />
+      <workItem from="1596888440915" duration="3314000" />
+      <workItem from="1596954752274" duration="1422000" />
+      <workItem from="1597202799321" duration="8248000" />
+      <workItem from="1597284442823" duration="7401000" />
+      <workItem from="1597317809603" duration="6849000" />
+      <workItem from="1597664731078" duration="5594000" />
+      <workItem from="1597749376026" duration="364000" />
+      <workItem from="1597749856700" duration="3640000" />
+      <workItem from="1597835572196" duration="4655000" />
+      <workItem from="1597888089792" duration="3253000" />
+      <workItem from="1598178784486" duration="6264000" />
+      <workItem from="1598276714531" duration="61000" />
+      <workItem from="1598323639996" duration="2815000" />
+      <workItem from="1598494199393" duration="2597000" />
+      <workItem from="1598510254188" duration="48000" />
+      <workItem from="1598534164631" duration="632000" />
+      <workItem from="1598959034268" duration="5477000" />
+      <workItem from="1599117855090" duration="2829000" />
+      <workItem from="1599443081102" duration="212000" />
+      <workItem from="1599458068288" duration="3683000" />
+      <workItem from="1599485346078" duration="1933000" />
+      <workItem from="1600344357545" duration="3653000" />
+      <workItem from="1600654830811" duration="822000" />
+      <workItem from="1600760090846" duration="6285000" />
+      <workItem from="1600827271486" duration="8254000" />
+      <workItem from="1600847905515" duration="3681000" />
+      <workItem from="1600865385299" duration="6268000" />
+      <workItem from="1600911747309" duration="10375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hhb/redis/TestRedisCluster.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hhb/kafka/deserialize/UserDeserializer.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hhb/kafka/deserialize/UserConsumer.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hhb/kafka/monitor/KafkaMonitor.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hhb/kafka/demo/MyConsumer.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hhb/kafka/demo/MyConsumer.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hhb/kafka/demo/MyProducer.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hhb/kafka/demo/MyProducer.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hhb/kafka/demo/MyProducer.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../kafka/src/main/java/com/hhb/kafka/KafkaApplication.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
